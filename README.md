@@ -1,5 +1,7 @@
 # expenseTracker
-This is a simple web application written in PHP/MYSQL/HTML/CSS/JAVASCRIPT that enables a user to import financial transaction spreadsheets from their respective banking institutions and analyze that data to understand where they are spending their money and become more aware of their financial trends ;)
+This is a simple web application written in PHP/MYSQL/HTML/CSS/JAVASCRIPT that enables a user to import financial transaction spreadsheets from their respective banking institutions and analyze that data to understand where they are spending their money and become more aware of their financial trends. Here is a screenshot of the dashboard:
+
+![alt text](ApplicationHomePageScreenshot.png "Expenses Dashboard")
 
 NOTE: The application still needs some refactoring for scaling.
 
