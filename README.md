@@ -3,7 +3,7 @@ This is a simple web application written in PHP/MYSQL/HTML/CSS/JAVASCRIPT that e
 
 ![alt text](ApplicationHomePageScreenshot.png "Expenses Dashboard")
 
-NOTE: The application still needs some refactoring for scaling.
+NOTE: The application still needs some refactoring for scaling. Check sections below to understand the current code structure. 
 
 ----------
 ## Data entry
@@ -23,7 +23,7 @@ Data powering these javascript  charts and grid comes from the following files t
 You also have the ability to manually edit transaction entries through the grid control. This is accomplished by **edit_transaction.php**.
 ## Data access and Database
 MySQL scripts are saved under the **db_scripts** to help build the database.
-A data access layer is crated using the following files:
+A data access layer is created using the following files:
 
  - **generate_data_access.php** (generates **da.php**)
  - **generate_cache.php** (generates **cache.php**)
